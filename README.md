@@ -1,2 +1,2 @@
-# command-say
+# bot-say
 
